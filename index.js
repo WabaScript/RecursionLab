@@ -84,7 +84,7 @@ function includesNumber(arr, n) {
     return true;
   } else {
     arr.pop()
-    return includesNumber(arr, n)
   }
+  return includesNumber(arr, n)
 }
 
