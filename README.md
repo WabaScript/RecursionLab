@@ -1,3 +1,6 @@
+### Original Flatiron repo
+https://github.com/learn-co-students/recursion-lab-nyc-web-012720
+
 # Recursion Lab!
 
 It turns out that there are a lot of interesting problems that can be solved with recursion.
